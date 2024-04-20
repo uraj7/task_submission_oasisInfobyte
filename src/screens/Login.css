@@ -1,0 +1,36 @@
+.button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-content {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .login-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+  }
+  
+  .btn-danger {
+    margin-top: 10px;
+  }
+  
